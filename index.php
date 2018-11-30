@@ -1,0 +1,255 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html lang="en">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+    <title>Afra Alishahi</title>
+
+    <meta name="description" content="Homepage of Afra Alishahi, assistant professor at Department of Communication and Information Sciences and member of Tilburg Center for Cognition and Communication TiCC">
+
+    <meta name="keywords" content="Afra Alishahi Language Acquisition Computational Modeling Communication Information Sciences Tilburg University TiCC">
+
+    <link href="with-navbar_files/coli-ns.css" rel="stylesheet" type="text/css">
+    
+
+</head>
+
+<body topmargin="0" rightmargin="0" leftmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0">
+    <table border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+	<td align="right" bgcolor="#efefef" valign="top" width="150">
+          <a href="http://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/" border="0"> 
+  	    <img src="with-navbar_files/header-r.gif" alt="Tilburg center for Cognition and Communication (TiCC)" border="0" height="110" width="110">
+          </a>
+	</td>
+	
+	<td align="left" valign="top">
+
+	  <a href="http://www.uvt.nl">
+	  <img src="with-navbar_files/header-l.gif" 
+	         width="200" height="110" border="0"
+	           alt="Tilburg center for Cognition and Communication (TiCC)" usemap="#links">
+	  </a>
+
+      </tr>
+
+<tr>
+
+
+<!-- Navbar -->
+
+<td align="left" bgcolor="#efefef" valign="top" width="150"> 
+<table border="0">
+<br><br>
+<tbody><tr>   <td width="2"></td>
+<td>
+<br>
+home
+<br><br>
+<a href="education.php">education</a>
+<br><br>
+<a href="research.php">research</a>
+<br><br>
+<a href="publications.php">publications</a>
+<br><br>
+<a href="students.php">students</a>
+<br><br>
+<a href="contact.php">contact</a>
+<br>
+&nbsp;&nbsp;
+</td></tr></tbody></table>
+</td>
+
+
+<!-- Main -->
+
+<td align="left" valign="top">
+<div class="main">
+
+<table border=0 width="100%">
+<tr>
+<td valign=top width="50%">
+
+<br><br><br>
+<font size=+2>Afra Alishahi</font>
+<br><br><br>
+
+<font size=+1>
+Associate Professor
+</font>
+<font size=-1>
+<br><br>
+<a href="http://www.tilburguniversity.edu/research/institutes-and-research-groups/ticc/">Tilburg center for Cognition and Communication</a>
+<br><br>
+<a href="http://www.tilburguniversity.edu/about-tilburg-university/schools/humanities/dci/">Department of Communication and Information Sciences</a>
+<br><br>
+<a href="http://www.tilburguniversity.edu/">Tilburg University</a>
+</font>
+</td>
+<td align=right>
+<br><br>
+<img src="pics/portrait.jpg" width=200>
+
+</td>
+</tr>
+</table>
+
+<br>&nbsp;<br>
+
+<!--
+<font size=+1>Upcoming Events:</font>
+<ul>
+</ul>
+-->
+
+<font size=+1>Recent News and activities:</font>
+<ul>
+<br>
+<font size=-1>
+<li>
+Area chair for <a href="http://coling2018.org/">COLING 2018</a>.
+</li>
+<br>
+<li>
+Seminar at <a href="http://web.inf.ed.ac.uk/ilcc/">ILCC</a>, School of Informatics, University of Edinburgh, October 2017.</li>
+<br>
+<li>
+Invited talk at <a href="https://sites.google.com/view/epirob2017language">
+2nd Workshop on Language Learning</a> at 2017 IEEE ICDL-EPIROB, Lisbon, September 2017.
+</li>
+<br>
+<li>
+We won the best <a href="https://aclweb.org/anthology/K/K17/K17-1037.pdf">paper</a> award at <a href="http://www.conll.org/">CoNLL 2017</a>!
+</li>
+<br>
+  <li>
+    Invited talk at <a href="http://colinglab.humnet.unipi.it/">Computational Linguistics Laboratory</a>, University of Pisa, titled "Generalization patterns in a probabilistic model of argument structure acquisition", Pisa, Italy, March 2016.
+  </li>
+  <br>
+<li>
+Invited talk at the <a href="http://www.emnlp2015.org/">EMNLP 2015</a> workshop on <a href="https://sites.google.com/site/cognitivews2015/">Cognitive Aspects of Computational Language Learning</a>, September 2015, Lisbon. 
+</li>
+<br>
+<li>
+Chair of the <a href="http://www.conll.org/">19th Conference on Computational Natural Language Learning (CoNLL 2015)</a> (with Alessandro Moschitti).
+</li>
+<br>
+<li>
+Recipient of the <a href="http://www.nwo.nl/en/research-and-results/programmes/aspasia">NWO Aspasia</a> grant, 2015.
+</li>
+<br>
+<li>
+Recipient of the <a href="http://www.nwo.nl/en/funding/our-funding-instruments/ew/natural-artificial-intelligence/natural-artificial-intelligence.html">NWO Natural Aritificial Intelligence</a> grant for the project <i>Learning to Communicate via Social and Linguistic Interactions</i> (with Paul Vogt and Emiel Krahmer). 
+</li>
+<br>
+<li>
+Tutorial chair of the <a href="http://eacl2014.org/">14th European chapter of the Association for Computational Linguistics (EACL 2014)</a>.
+</li>
+<br>
+<li>
+Area chair of the Computational Models for Human Language Acquisition and Processing track, 
+<a href="http://hum.csse.unimelb.edu.au/emnlp2013/">Empirical Methods on Natural Language 
+Processing (EMNLP 2013)</a>.
+</li>
+<br>
+<li>
+Invited talk at <a href="http://www.unitn.it/en/cimec">Center for Mind/Brain Sciences (CIMeC)</a>, University of Trento, titled "Child word learning from a computational perspective", Rovereto, Italy, May 2013.
+</li>
+<br>
+<li>
+Invited talk at <a href="http://smartcognitivescience.wordpress.com/">SMART Cognitive Science Lectures</a>, University of Amsterdam, titled "What computers can tell us about human language: the case of learning words", Amsterdam, The Netherlands, October 2012.
+</li>
+<br>
+<li>
+Invited talk at <a href="http://www.psych-sci.manchester.ac.uk/">School of Psychological Sciences</a>, University of Manchester, titled "Language learning as a unified probabilistic process", Manchester, UK, October 2012.
+</li>
+<br>
+<li>
+Invited talk at <a href="http://www.liv.ac.uk/psychology-health-and-society/">Institute of Psychology, Health and Society</a>, University of Liverpool, titled <a href="http://www.liv.ac.uk/psychology-health-and-society/events/event/39109/instance_id/53326"> "Language learning as a unified probabilistic process"</a>, Liverpool, UK, October 2012.
+</li>
+<br>
+<li>
+Area chair of the Computational Psycholinguistics track, <a href="http://eacl2012.org/home/index.html">13th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2012)</a>.
+</li>
+<br>
+<li>
+Invited talk at <a href="http://www.clips.ua.ac.be/pages/atila-2011">ATILA 2011</a> meeting
+titled "A Bayesian account of the acquisition of abstract argument structure constructions", Antwerp, Belgium, December 2011.
+</li>
+<br>
+<li>
+Two symposiums at the <a href="http://www.iascl2011.org/">12th International Congress for the Study of Child Language (IASCL 2011)</a>:
+<ul>
+<br>
+<li>
+Identifying the agent: How children learn and use semantic roles (organized by <a href="http://www.liv.ac.uk/psychology-health-and-society/staff/caroline-rowland/">Caroline Rowland</a>)
+</li>
+<br>
+<li>
+The formation of and restriction of linguistic generalizations (organized by <a href="http://pcwww.liv.ac.uk/~ambridge/">Ben Ambridge</a>)
+</li>
+</ul>
+</li>
+<br>
+<li>
+<font size=-1>
+Giving a talk at the <a href="http://www.iaas.uni-bremen.de/dgkl2010/en/index.html">
+Fourth International Conference of the German Cognitive Linguistics Association
+</a> titled "The acquisition of abstract argument structure constructions from child-directed data". Bremen, Germany, October 9, 2010.
+</li>
+<br>
+<li>
+<font size=-1>
+Co-offering a course at <a href="http://esslli2010cph.info/">European Summer School in Logic, Language and Information (ESSLLI)</a> on <a href="http://esslli2010cph.info/?p=275">Computational Modeling of Human Language Acquisition</a>. Copenhagen, Denmark, August 16-20, 2010 (with Afsaneh Fazly).
+</li>
+<br> 
+<li>
+<font size=-1>
+Giving a talk at the <a href="http://www.illc.uva.nl/">Institute for Logic, Language, and Computation</a>, <a href="http://www.uva.nl/">University of Amsterdam</a> titled "A Bayesian account of the acquisition of abstract argument structure constructions". Amsterdam, Netherlands, May 19, 2010.
+</li>
+<br>
+<li>
+<font size=-1>
+Giving a talk 
+at the <a href="http://talks.cam.ac.uk/show/index/6413">RCEAL Tuesday Colloquia</a> series, Research Centre for English and Applied Linguistics, University of Cambridge, 
+titled <a href="http://talks.cam.ac.uk/talk/index/23543">Learning semantic roles from child-directed data: insights from a probabilistic model of early language learning</a>.
+Cambridge, UK, April 27, 2010.
+</li>
+<br>
+<li>
+<font size=-1>
+Offering an <a href="http://www.acl-ijcnlp-2009.org/main/tutorials.html">ACL Tutorial</a> on Computational Modeling of Human Language Acquisition. Singapore, August 2009.
+</li>
+<br>
+<li>
+Organizing the <a href="http://www.coli.uni-saarland.de/projects/igk/annualMeeting/">Eighth IRTG Summer School in Computational Linguistics and Psycholinguistics</a>. Kloster Irsee, Germany, June 2009 (with Matthew Crocker).
+</li>
+<br>
+<li>
+Co-organizing an <a href="http://www.eacl2009.gr/conference/workshops">EACL Workshop</a> on <a href="http://www-lipn.univ-paris13.fr/~poibeau/cognitive/">Cognitive Aspects of Computational Language Acquisition</a>. Athens, Greece, March 2009 (with Thierry Poibeau and Aline Villavicencio).
+</li>
+</ul>
+
+</div>
+</td>
+</tr>
+
+
+        
+
+	<tr>
+
+
+	  <td align="left" bgcolor="#efefef" valign="top" width="150">&nbsp;</td>
+
+	  <td align="left" valign="top">
+
+	  </td>
+
+	</tr>
+
+    </tbody></table>
+
+  </body></html>
