@@ -4,6 +4,8 @@
 I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
 <a href="http://www.tilburguniversity.edu/">Tilburg University</a>, the Netherlands.
 
+You can find my [CV](Alishahi_CV.pdf) here.
+
 ## Research Interests
 
 I am mainly interested in studying language learning using computational models. My main area of research is modeling grounded language learning, the impact of interaction in language acquisition and processing, and developing tools and techniques for better understanding of emergent linguistic representations in (neural) models of language.
@@ -96,13 +98,10 @@ word learning? An artificial language learning study</a>. <i>Wiener Linguistisch
 
 ## Contact
 
-<dl>
-<dt>Email:</dt>
- <dd>a.alishahi@uvt.nl</dd>
-<dt>Address:</dt>
- <dd></dd>
- <dd>Tilburg University</dd>
- <dd>Department of Cognitive Science and AI</dd>
- <dd>Warandelaan 2, 5037 AB Tilburg</dd>
- <dd>Dante Building, Room D 328</dd>
-</dl>
+Email: a.alishahi@uvt.nl
+
+Address:
+>Tilburg University
+>Department of Cognitive Science and AI
+>Warandelaan 2, 5037 AB Tilburg
+>Dante Building, Room D 328
