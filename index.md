@@ -11,6 +11,34 @@ I am mainly interested in studying language learning using computational models.
 - Received an e-Science Center/NWO grant for the project "Understanding visually grounded spoken language via multi-tasking" (apply [here]).
 - Organizer of <a href="">BlackboxNLP</a> workshop at <a href="">EMNLP 2018</a>.
 - Area chair for <a href="http://coling2018.org/">COLING 2018</a>.
+- Seminar at <a href="http://web.inf.ed.ac.uk/ilcc/">ILCC</a>, School of Informatics, University of Edinburgh, October 2017.- - Invited talk at <a href="https://sites.google.com/view/epirob2017language"> 2nd Workshop on Language Learning</a> at 2017 IEEE ICDL-EPIROB, Lisbon, September 2017.
+- We won the best <a href="https://aclweb.org/anthology/K/K17/K17-1037.pdf">paper</a> award at <a href="http://www.conll.org/">CoNLL 2017</a>!
+- Invited talk at <a href="http://colinglab.humnet.unipi.it/">Computational Linguistics Laboratory</a>, University of Pisa, titled "Generalization patterns in a probabilistic model of argument structure acquisition", Pisa, Italy, March 2016.
+- Invited talk at the <a href="http://www.emnlp2015.org/">EMNLP 2015</a> workshop on <a href="https://sites.google.com/site/cognitivews2015/">Cognitive Aspects of Computational Language Learning</a>, September 2015, Lisbon. 
+- Chair of the <a href="http://www.conll.org/">19th Conference on Computational Natural Language Learning (CoNLL 2015)</a> (with Alessandro Moschitti).
+- Recipient of the <a href="http://www.nwo.nl/en/research-and-results/programmes/aspasia">NWO Aspasia</a> grant, 2015.
+- Recipient of the <a href="http://www.nwo.nl/en/funding/our-funding-instruments/ew/natural-artificial-intelligence/natural-artificial-intelligence.html">NWO Natural Aritificial Intelligence</a> grant for the project <i>Learning to Communicate via Social and Linguistic Interactions</i> (with Paul Vogt and Emiel Krahmer). 
+- Tutorial chair of the <a href="http://eacl2014.org/">14th European chapter of the Association for Computational Linguistics (EACL 2014)</a>.
+- Area chair of the Computational Models for Human Language Acquisition and Processing track, <a href="http://hum.csse.unimelb.edu.au/emnlp2013/">Empirical Methods on Natural Language Processing (EMNLP 2013)</a>.
+- Invited talk at <a href="http://www.unitn.it/en/cimec">Center for Mind/Brain Sciences (CIMeC)</a>, University of Trento, titled "Child word learning from a computational perspective", Rovereto, Italy, May 2013.
+- Invited talk at <a href="http://smartcognitivescience.wordpress.com/">SMART Cognitive Science Lectures</a>, University of Amsterdam, titled "What computers can tell us about human language: the case of learning words", Amsterdam, The Netherlands, October 2012.
+- Invited talk at <a href="http://www.psych-sci.manchester.ac.uk/">School of Psychological Sciences</a>, University of Manchester, titled "Language learning as a unified probabilistic process", Manchester, UK, October 2012.
+- Invited talk at <a href="http://www.liv.ac.uk/psychology-health-and-society/">Institute of Psychology, Health and Society</a>, University of Liverpool, titled <a href="http://www.liv.ac.uk/psychology-health-and-society/events/event/39109/instance_id/53326"> "Language learning as a unified probabilistic process"</a>, Liverpool, UK, October 2012.
+- Area chair of the Computational Psycholinguistics track, <a href="http://eacl2012.org/home/index.html">13th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2012)</a>.
+- Invited talk at <a href="http://www.clips.ua.ac.be/pages/atila-2011">ATILA 2011</a> meeting
+titled "A Bayesian account of the acquisition of abstract argument structure constructions", Antwerp, Belgium, December 2011.
+- Two symposiums at the <a href="http://www.iascl2011.org/">12th International Congress for the Study of Child Language (IASCL 2011)</a>:
+-- Identifying the agent: How children learn and use semantic roles (organized by <a href="http://www.liv.ac.uk/psychology-health-and-society/staff/caroline-rowland/">Caroline Rowland</a>)
+-- The formation of and restriction of linguistic generalizations (organized by <a href="http://pcwww.liv.ac.uk/~ambridge/">Ben Ambridge</a>)
+- Giving a talk at the <a href="http://www.iaas.uni-bremen.de/dgkl2010/en/index.html">
+Fourth International Conference of the German Cognitive Linguistics Association
+</a> titled "The acquisition of abstract argument structure constructions from child-directed data". Bremen, Germany, October 9, 2010.
+- Co-offering a course at <a href="http://esslli2010cph.info/">European Summer School in Logic, Language and Information (ESSLLI)</a> on <a href="http://esslli2010cph.info/?p=275">Computational Modeling of Human Language Acquisition</a>. Copenhagen, Denmark, August 16-20, 2010 (with Afsaneh Fazly).
+- Giving a talk at the <a href="http://www.illc.uva.nl/">Institute for Logic, Language, and Computation</a>, <a href="http://www.uva.nl/">University of Amsterdam</a> titled "A Bayesian account of the acquisition of abstract argument structure constructions". Amsterdam, Netherlands, May 19, 2010.
+- Giving a talk at the <a href="http://talks.cam.ac.uk/show/index/6413">RCEAL Tuesday Colloquia</a> series, Research Centre for English and Applied Linguistics, University of Cambridge, titled <a href="http://talks.cam.ac.uk/talk/index/23543">Learning semantic roles from child-directed data: insights from a probabilistic model of early language learning</a>. Cambridge, UK, April 27, 2010.
+- Offering an <a href="http://www.acl-ijcnlp-2009.org/main/tutorials.html">ACL Tutorial</a> on Computational Modeling of Human Language Acquisition. Singapore, August 2009.
+- Organizing the <a href="http://www.coli.uni-saarland.de/projects/igk/annualMeeting/">Eighth IRTG Summer School in Computational Linguistics and Psycholinguistics</a>. Kloster Irsee, Germany, June 2009 (with Matthew Crocker).
+- Co-organizing an <a href="http://www.eacl2009.gr/conference/workshops">EACL Workshop</a> on <a href="http://www-lipn.univ-paris13.fr/~poibeau/cognitive/">Cognitive Aspects of Computational Language Acquisition</a>. Athens, Greece, March 2009 (with Thierry Poibeau and Aline Villavicencio).
 
 
 ## Publications
@@ -25,7 +53,7 @@ I am mainly interested in studying language learning using computational models.
 - Yevgen Matusevych, Afra Alishahi and Ad Backus (2017). <a href="https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/impact-of-first-and-second-language-exposure-on-learning-second-language-constructions/929E4ECD21F6647A281992B2858EEFA7">The impact of first and second language exposure on learning second language constructions</a>. <i>Bilingualism: Language and Cognition</i>, 20(1), 128–149. 
 - Yeven Matusevych, Afra Alishahi and Ad Backus (2016). <a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1200732">Modeling verb selection within argument structure constructions</a>. <i>Language, Cognition and Neuroscience</i>, 31(10), 1215–1244. 
 - Ákos Kádár, Grzegorz Chrupała, Afra Alishahi (2016). <a href="http://grzegorz.chrupala.me/papers/tal-2014.pdf">Learning word meanings from images of natural scenes</a>. <i>Traitement Automatique des Langues (TAL)</i>, Special Issue on "Natural Language Processing and Cognition".
-- Moinuddin M. Haque, Paul Vogt, Afra Alishahi and Emiel Krahmer (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0095/index.html">A connectionist model for automatic generation of child-adult interaction patterns.  In <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>, Philadelphia, Pennsylvania.
+- Moinuddin M. Haque, Paul Vogt, Afra Alishahi and Emiel Krahmer (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0095/index.html">A connectionist model for automatic generation of child-adult interaction patterns</a>.  In <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>, Philadelphia, Pennsylvania.
 - Grzegorz Chrupała, Ákos Kádár and Afra Alishahi (2015). <a href="http://www.aclweb.org/anthology/P/P15/P15-2019.pdf">Learning language through pictures</a>. In <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
 - Yevgen Matusevych, Afra Alishahi and Ad Backus (2015). <a href="https://mindmodeling.org/cogsci2015/papers/0270/index.html">Distributional determinants of learning argument structure constructions in first and second language</a>. In <i>Proceedings of the 37th Annual Conferene of the Cognitive Science Society</i>, Pasadena, USA.
 - Afra Alishahi (2014). <a href="https://doi.org/10.1515/tl-2014-0002">Lifecycle of a probabilistic construction</a>. <i>Theoretical Linguistics</i>, 40:1-2, 77-88.
