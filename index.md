@@ -15,5 +15,7 @@ I am mainly interested in studying language learning using computational models.
 
 ## Publications
 
-- pub1
-- pub2
+- Ákos Kádár, Grzegorz Chrupała and Afra Alishahi (2017). <a href="http://arxiv.org/abs/1602.08952">Representation of linguistic form and function in recurrent neural networks</a>. To appear in <i>Computational Linguistics</i>.
+- Afra Alishahi, Marie Barking and Grzegorz Chrupała (2017). <a href="https://arxiv.org/abs/1706.03815">Encoding of phonology in a recurrent neural model of grounded speech</a>. In <i>Proceedings of Conference on Computational Natural Language Learning (CoNLL)</i> (<b>Winner of the Best Paper Award</b>).
+- Grzegorz Chrupała, Lieke Gelderloos and Afra Alishahi (2017). <a href="https://arxiv.org/abs/1702.01991">Representations of language in a model of visually grounded speech signal</a>. In <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
+
