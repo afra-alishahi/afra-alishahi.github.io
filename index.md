@@ -18,4 +18,61 @@ I am mainly interested in studying language learning using computational models.
 - Ákos Kádár, Grzegorz Chrupała and Afra Alishahi (2017). <a href="http://arxiv.org/abs/1602.08952">Representation of linguistic form and function in recurrent neural networks</a>. To appear in <i>Computational Linguistics</i>.
 - Afra Alishahi, Marie Barking and Grzegorz Chrupała (2017). <a href="https://arxiv.org/abs/1706.03815">Encoding of phonology in a recurrent neural model of grounded speech</a>. In <i>Proceedings of Conference on Computational Natural Language Learning (CoNLL)</i> (<b>Winner of the Best Paper Award</b>).
 - Grzegorz Chrupała, Lieke Gelderloos and Afra Alishahi (2017). <a href="https://arxiv.org/abs/1702.01991">Representations of language in a model of visually grounded speech signal</a>. In <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
-
+- Yeven Matusevych, Afra Alishahi and Ad Backus (2017). Quantifying cross-linguistic influence with a computational model: A study of case-marking comprehension. <i>Linguistic Approaches to Bilingualism</i>. Advance online publication. DOI: 10.1075/lab.16038.mat. [<a href="papers/LAB_2017.pdf" style="color:red;">pdf</a>]
+- Yeven Matusevych, Afra Alishahi and Ad Backus (2017). The impact of first and second language exposure on learning second language constructions. <i>Bilingualism: Language and Cognition</i>, 20(1), 128–149. DOI: 10.1017/S1366728915000607. [<a href="papers/BLC_2016.pdf" style="color:red;">pdf</a>]
+- Yeven Matusevych, Afra Alishahi and Ad Backus (2016). Modeling verb selection within argument structure constructions. Language, Cognition and Neuroscience, 31(10), 1215–1244. DOI: 10.1080/23273798.2016.1200732. [<a href="papers/LCN_2016.pdf" style="color:red;">pdf</a>]
+- Ákos Kádár, Grzegorz Chrupała, Afra Alishahi (2016). <a href="http://www.atala.org/Learning-word-meanings-from-images">Learning word meanings from images of natural scenes</a>. <i>Traitement Automatique des Langues (TAL)</i>, Special Issue on "Natural Language Processing and Cognition".
+- Moinuddin M. Haque, Paul Vogt, Afra Alishahi and Emiel Krahmer (2016). A connectionist model for automatic generation of child-adult interaction patterns.  In <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>, Philadelphia, Pennsylvania.
+- Grzegorz Chrupała, Ákos Kádár and Afra Alishahi (2015). <a href="http://www.aclweb.org/anthology/P/P15/P15-2019.pdf">Learning language through pictures</a>. In <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
+- Yevgen Matusevych, Afra Alishahi and Ad Backus (2015). Distributional determinants of learning argument structure constructions in first and second language. In <i>Proceedings of the 37th Annual Conferene of the Cognitive Science Society</i>, Pasadena, USA. [<a href="papers/Matusevych.etal.CogSci2015.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi (2014). Lifecycle of a probabilistic construction. <i>Theoretical Linguistics</i>, 40:1-2, 77-88.
+[<a href="papers/Alishahi.TL2014.pdf" style="color:red;">pdf</a>]
+- Yevgen Matusevych, Afra Alishahi and Ad Backus (2014). Isolating second language acquisition factors: A computational model of bilingual construction learning. In <i>Proceedings of the 36th Annual Conference of the Cognitive Science Society</i>, Quebec City, Canada. [<a href="papers/Matusevych.etal.CogSci2014.pdf" style="color:red;">pdf</a>]
+- Daniel Freudenthal and Afra Alishahi (2014). Computational models of Language Development. In P. Brooks and V. Kempe (eds), <i>Encyclopedia of Language Development.</i> SAGE Publications.
+[<a href="papers/Freudenthal.Alishahi.ELD2013.pdf" style="color:red;">pdf</a>]
+- Eva van den Bemd, Maria Mos and Afra Alishahi (2014). <a href="https://www.univie.ac.at/linguistics/publications/wlg/78A2014/Wohlmuth.pdf">Does sentence structure boost early
+word learning? An artificial language learning study</a>. <i>Wiener Linguistische Gazette</i>, Issue 78A.
+- Thierry Poibeau, Aline Villavicencio, Anna Korhonen, and Afra Alishahi (2013). Cognitive Aspects of Computational Language Acquisition. Springer.
+- Afra Alishahi and Suzanne Stevenson (2013). Gradual Acquisition of Verb Selectional Preferences in a Bayesian Model. In T. Poibeau, A. Villavicencio, A. Korhonen, and A. Alishahi (eds).<i>Cognitive Aspects of Computational Language Acquisition</i>. Springer.
+- Yevgen Matusevych, Afra Alishahi and Paul Vogt (2013). Automatic generation of naturalistic
+    child-adult interaction data. In <i>Proceedings of the 35th Annual Conference of the Cognitive
+      Science Society</i>, Berlin, Germany.
+    [<a href="papers/Matusevych.etal.CogSci2013.pdf" style="color:red;">pdf</a>]
+- Yevgen Matusevych, Afra Alishahi and Ad Backus (2013). Computational simulations of
+    second language construction learning. In <i>Proceedings of the Workshop on Cognitive
+      Modeling and Computational Linguistics, ACL'2013</i>.
+    [<a href="papers/Matusevych.etal.CMCL2013.pdf" style="color:red;">pdf</a>]
+ - Afra Alishahi and Grzegorz Chrupa&#322;a (2012).
+    Concurrent acquisition of word meaning and lexical categories.
+    <i>Proceedings of the 2012 Conference on Empirical Methods on Natural Language Processing
+      and Computational Natural Language Learning (EMNLP-CoNLL 2012)</i>, Jeju, Korea.
+    [<a href="papers/Alishahi-Chrupala-emnlp2012.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi, Afsaneh Fazly, Judith Koehne and Matthew Crocker (2012). <a href="http://www.frontiersin.org/developmental_psychology_/10.3389/fpsyg.2012.00200/abstract">Sentence-based attentional mechanisms in word learning: Evidence from a computational model</a>. Frontiers in Developmental Psychology.
+[<a href="papers/Alishahi.etal.Frontiers2012.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Pirita Pyykk&ouml;nen (2011).
+    The onset of syntactic bootstrapping in word learning: Evidence from a computational study.
+    <i>Proceedings of the 33nd Annual Conference of the Cognitive Science Society</i>, Boston.
+    [<a href="papers/Alishahi_Pyykkonen_CogSci11.pdf" style="color:red;">pdf</a>]
+- Alexis Palmer, Afra Alishahi, and Caroline Sporleder (2011).
+    Robust Semantic Analysis for Unseen Data in FrameNet. RANLP 2011, Hissar, Bulgaria.
+    [<a href="papers/Palmer_Alishahi_Sporleder_RANLP11.pdf" style="color:red;">pdf</a>]
+- Afsaneh Fazly, Afra Alishahi and Suzanne Stevenson (2010). A probabilistic computational model of cross-situational word learning. <i>Cognitive Science</i>, 34:6, 1017-1063.
+[<a href="papers/FazlyEtAl-CSJ10.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Suzanne Stevenson (2010). Learning general properties of semantic roles from usage data: a computational model. <i>Language and Cognitive Processes</i>, 25:1, 50-93. [<a href="papers/LCP2010-Alishahi-Stevenson.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Afsaneh Fazly (2010). Integrating Syntactic Knowledge into a Model of Cross-situational Word Learning. <i>Proceedings of the 32nd Annual Conference of the Cognitive Science Society</i>, Portland, Oregon. [<a href="papers/Alishahi_Fazly_CogSci10_categorization.pdf" style="color:red;">pdf</a>]
+- Grzegorz Chrupa&#322;a and Afra Alishahi (2010). Online Entropy-based Model of Lexical Category Acquisition. <i>Proceedings of the 14th Conference on Computational Natural Language Learning (CoNLL)</i>, Uppsala, Sweden. [<a href="papers/Chrupala_Alishahi_CoNLL10_categorization.pdf" style="color:red;">pdf</a>]
+- Afsaneh Fazly, Fatemeh Ahmadi-Fakhr, Afra Alishahi and Suzanne Stevenson (2010).  Cross-situational Learning of Low Frequency Words: The Role of Context Familiarity and Age of Exposure. <i>Proceedings of the 32nd Annual Conference of the Cognitive Science Society</i>, Portland, Oregon. [<a href="papers/Fazly_etal_CogSci2010.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi (2010). <a href="http://www.morganclaypool.com/doi/abs/10.2200/S00304ED1V01Y201010HLT011">Computational Modeling of Human Language Acquisition</a>. Synthesis Lectures on Human Language Technologies, Morgan & Claypool.
+- Afra Alishahi and Grzegorz Chrupa&#322;a (2009). Lexical category acquisition as an incremental process. <i>Proceedings of the CogSci2009 workshop on Psychocomputational Models of Human Language Acquisition</i>, Amsterdam, Netherlands. [<a href="papers/AlishahiChrupala-CategoryInduction.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Suzanne Stevenson (2008). A computational model for early argument structure acquisition. <i> Cognitive Science</i>, 32:5, 789-834. [<a href="papers/CSJ2008-alishahi-stevenson.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi, Afsaneh Fazly and Suzanne Stevenson (2008). Fast mapping in word learning: What probabilities tell us. <i>Proceedings of the 12th Conference on Computational Natural Language Learning</i>, Manchester, UK. [<a href="papers/fm-margin.pdf" style="color:red;">pdf</a>]
+- Afsaneh Fazly, Afra Alishahi and Suzanne Stevenson (2008). A probabilistic incremental model of word learning in the presence of referential uncertainty. <i>Proceedings of the 30th Annual Conference of the Cognitive Science Society</i>, Washington, D.C. <b>(Cognitive Science 2008 Prize for the Best Paper on Language Modeling.)</b> [<a href="papers/FazlyEtAl-COGSCI08.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Suzanne Stevenson (2007). A cognitive model for the representation and acquisition of verb selectional preferences. In <i>Proceedings of the  ACL-2007 Workshop on Cognitive Aspects of Computational Language Acquisition </i>, pages 41-48, Prague, Czech Republic. [<a href="papers/AlishahiStevenson-SelectionalPreferences.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Suzanne Stevenson (2007). A computational usage-based model for learning general properties of semantic roles. In <i> Proceedings of the 2nd European Cognitive Science Conference</i>, Delphi, Greece. [<a href="papers/Alishahi_Stevenson_eurocogsci07.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Suzanne Stevenson (2005). A probabilistic model of early argument structure acquisition. In <i> Proceedings of the 27th Annual Conference of the Cognitive Science Society</i>, pages 97-102, Stresa, Italy. <b>(Marr Prize for Best Student Paper, Honorable Mention.)</b> [<a href="papers/alishahi-stevenson-cogsci05.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Suzanne Stevenson (2005). The acquisition and use of argument structure constructions: a Bayesian model. In <i>Proceedings of the Second Workshop on Psycho-computational Models of Human Language Acquisition (ACL 2005)</i>, pages 82-90, Ann Arbor, Michigan, USA. [<a href="papers/alishahi-stevenson-acl05.pdf" style="color:red;">pdf</a>]
+- Afra Alishahi and Caro Lucas (1998). An Automatic Fuzzy Clustering Approach to Concept Retrieval and Classification of Unstructured Documents, accepted in <i>JCIS98</i>, North Carolina, USA.
+- Afra Alishahi and Caro Lucas (1998). A Hybrid Neural Network for Concept                                          Clustering. Irano-Armenian Workshop on Neural Networks, Armenia.
+- Afra Alishahi (1997). An Intelligent System for Presenting Distributed Statistics, <I>Proceedings of 6th Conference of Information Technology in Iran Power Industry</I>, Tehran, Iran. 
+- Afra Alishahi and Ramin Ghourchian (1996). Applying Non-deterministic 
+Algorithms in Simulation of Food Finding of Ants. In <i>17th Seminar of Intelligent Systems</i>, ISRF, Iran.
