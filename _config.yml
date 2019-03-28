@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Afra Alishahi
-description: None22
 navbar-links:
   About: "#about"
   Publications: "#publications"
