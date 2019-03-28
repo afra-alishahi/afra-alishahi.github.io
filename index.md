@@ -1,7 +1,4 @@
-# Afra Alishahi
-
 ## About
-<img src="https://avatars3.githubusercontent.com/u/23261252?s=400&u=adf73a5c00f142a71897f52614b753ec1899103c&v=4" width=200>
 I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
 <a href="http://www.tilburguniversity.edu/">Tilburg University</a>, the Netherlands.
 
