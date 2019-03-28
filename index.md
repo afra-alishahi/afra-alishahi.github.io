@@ -1,5 +1,7 @@
 ## [About](#about) . [Research](#research-interests) . [News](#news-and-activities) . [Publications](#publications) . [Contact](#contact)
 
+--------
+
 ## About
 I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
 <a href="http://www.tilburguniversity.edu/">Tilburg University</a>, the Netherlands.
@@ -98,9 +100,9 @@ word learning? An artificial language learning study</a>. <i>Wiener Linguistisch
 
 ## Contact
 
-Email: a.alishahi@uvt.nl
+*Email:* a.alishahi@uvt.nl
 
-Address:<br>
+*Address:*<br>
 Tilburg University<br>
 Department of Cognitive Science and AI<br>
 Warandelaan 2, 5037 AB Tilburg<br>
