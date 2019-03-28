@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Afra Alishahi
+description: None
 avatar: "afra.jpg"
+navbar-links:
+  About: "about"
+  
