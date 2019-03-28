@@ -1,4 +1,4 @@
-# [About](#about) . [Research](#research-interests) . [News](#news-and-activities) . [Publications](#publications) . [Contact](#contact)
+### [About](#about) . [Research](#research-interests) . [News](#news-and-activities) . [Publications](#publications) . [Contact](#contact)
 
 ## About
 I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
@@ -97,10 +97,12 @@ word learning? An artificial language learning study</a>. <i>Wiener Linguistisch
 ## Contact
 
 <dl>
-<dt>Email: a.alishahi@uvt.nl</dt>
+<dt>Email:</dt>
+ <dd>a.alishahi@uvt.nl</dd>
 <dt>Address:</dt>
-<dd>Tilburg University</dd>
-<dd>Department of Cognitive Science and AI</dd>
-<dd>Warandelaan 2, 5037 AB Tilburg</dd>
-<dd>Dante Building, Room D 328</dd>
+ <dd></dd>
+ <dd>Tilburg University</dd>
+ <dd>Department of Cognitive Science and AI</dd>
+ <dd>Warandelaan 2, 5037 AB Tilburg</dd>
+ <dd>Dante Building, Room D 328</dd>
 </dl>
