@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Afra Alishahi
-navbar-links:
-  About: "#about"
-  Publications: "#publications"
+description: test [#contact]
 logo: afra.jpg
