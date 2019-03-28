@@ -8,9 +8,13 @@ I am mainly interested in studying language learning using computational models.
 
 ## News and Activities
 
-- Received an e-Science Center/NWO grant for the project "Understanding visually grounded spoken language via multi-tasking" (apply [here]).
+- Invited talk at the Computational Linguistics seminar, <a href="https://www.illc.uva.nl/">ILLC</a>, Amsterdam, March 2019.
+- Listen to Tal Linzen and I talking about <a href="https://blackboxnlp.github.io/2018/">BlackboxNLP 2018</a> workshop on <a href="https://www.listennotes.com/podcasts/nlp-highlights/81-blackboxnlp-with-afra-OlGz203SLdw/">NLP Highlights podcast</a>.
+- Received an e-Science Center/NWO grant for the project "Understanding visually grounded spoken language via multi-tasking".
 - Organizer of <a href="">BlackboxNLP</a> workshop at <a href="">EMNLP 2018</a>.
+- Keynote at <a href="https://l2hm2018.sciencesconf.org/resource/page/id/1">Workshop on Learning Language in Humans and in Machines</a>, <a href="http://www.ens.fr/en">Ecole Normale Superieure</a>, Paris, July 2018.
 - Area chair for <a href="http://coling2018.org/">COLING 2018</a>.
+- Invited talk at the <a href="https://scs.techfak.uni-bielefeld.de/ecogest/jekyll/update/2018/03/05/project-description.html">kickoff</a> event for <a href="https://scs.techfak.uni-bielefeld.de/ecogest/">EcoGest</a> project, Bielefeld University, Germany, February 2018.
 - Seminar at <a href="http://web.inf.ed.ac.uk/ilcc/">ILCC</a>, School of Informatics, University of Edinburgh, October 2017.- - Invited talk at <a href="https://sites.google.com/view/epirob2017language"> 2nd Workshop on Language Learning</a> at 2017 IEEE ICDL-EPIROB, Lisbon, September 2017.
 - We won the best <a href="https://aclweb.org/anthology/K/K17/K17-1037.pdf">paper</a> award at <a href="http://www.conll.org/">CoNLL 2017</a>!
 - Invited talk at <a href="http://colinglab.humnet.unipi.it/">Computational Linguistics Laboratory</a>, University of Pisa, titled "Generalization patterns in a probabilistic model of argument structure acquisition", Pisa, Italy, March 2016.
