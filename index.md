@@ -15,6 +15,9 @@ I am mainly interested in studying language learning using computational models.
 
 ## Publications
 
+- Grzegorz Chrupała, Lieke Gelderloos, Ákos Kádár and Afra Alishahi (2019). <a href="https://scholarworks.umass.edu/scil/vol2/iss1/18/">On the difficulty of a distributional semantics of spoken language</a>. Proceedings of the Society for Computation in Linguistics.
+- Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi (2018). <a href="https://aclweb.org/anthology/K18-1039">Lessons learned in multilingual grounded language learning</a>. <i>Proceedings of Conference on Computational Natural Language Learning (CoNLL)</i>. 
+- Ákos Kádár, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi (2018). <a href="https://aclweb.org/anthology/C18-1272">Revisiting the Hierarchical Multiscale LSTM</a>. <i>Proceedings of the Conference on Computational Linguistics (COLING)</i>.
 - Ákos Kádár, Grzegorz Chrupała and Afra Alishahi (2017). <a href="http://arxiv.org/abs/1602.08952">Representation of linguistic form and function in recurrent neural networks</a>. To appear in <i>Computational Linguistics</i>.
 - Afra Alishahi, Marie Barking and Grzegorz Chrupała (2017). <a href="https://arxiv.org/abs/1706.03815">Encoding of phonology in a recurrent neural model of grounded speech</a>. In <i>Proceedings of Conference on Computational Natural Language Learning (CoNLL)</i> (<b>Winner of the Best Paper Award</b>).
 - Grzegorz Chrupała, Lieke Gelderloos and Afra Alishahi (2017). <a href="https://arxiv.org/abs/1702.01991">Representations of language in a model of visually grounded speech signal</a>. In <i>Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
