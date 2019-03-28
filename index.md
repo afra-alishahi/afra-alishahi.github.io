@@ -1,3 +1,5 @@
+## [About](#about) . [Research Interests](#research-interests) . [News and Activities](#news-and-activities) . [Publications](#publications) . [Contact](#contact)
+
 ## About
 I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
 <a href="http://www.tilburguniversity.edu/">Tilburg University</a>, the Netherlands.
@@ -91,3 +93,11 @@ word learning? An artificial language learning study</a>. <i>Wiener Linguistisch
 - Afra Alishahi and Caro Lucas (1998). A Hybrid Neural Network for Concept Clustering. Irano-Armenian Workshop on Neural Networks, Armenia.
 - Caro Lucas and Afra Alishahi (1997). An Intelligent System for Presenting Distributed Statistics, <I>Proceedings of 6th Conference of Information Technology in Iran Power Industry</I>, Tehran, Iran. 
 - Afra Alishahi and Ramin Ghourchian (1996). Applying Non-deterministic Algorithms in Simulation of Food Finding of Ants. In <i>17th Seminar of Intelligent Systems</i>, ISRF, Iran.
+
+## Contact
+
+Email: a.alishahi@uvt.nl
+Address: Tilburg University
+Tilburg center for Cognition and Communication(TiCC)
+Warandelaan 2, 5037 AB Tilburg
+Dante Building, Room D 328
