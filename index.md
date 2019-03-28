@@ -1,4 +1,4 @@
-### [About](#about) . [Research](#research-interests) . [News](#news-and-activities) . [Publications](#publications) . [Contact](#contact)
+## [About](#about) . [Research](#research-interests) . [News](#news-and-activities) . [Publications](#publications) . [Contact](#contact)
 
 ## About
 I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
