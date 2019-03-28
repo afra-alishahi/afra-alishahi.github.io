@@ -100,8 +100,8 @@ word learning? An artificial language learning study</a>. <i>Wiener Linguistisch
 
 Email: a.alishahi@uvt.nl
 
-Address:
->Tilburg University
->Department of Cognitive Science and AI
->Warandelaan 2, 5037 AB Tilburg
->Dante Building, Room D 328
+Address:<br>
+Tilburg University<br>
+Department of Cognitive Science and AI<br>
+Warandelaan 2, 5037 AB Tilburg<br>
+Dante Building, Room D 328<br>
