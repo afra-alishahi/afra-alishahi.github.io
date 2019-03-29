@@ -16,7 +16,8 @@ I am mainly interested in studying language learning using computational models.
 
 - Invited talk at <a href="http://wids.dk/">Women in Data Science Conference 2019</a>, Copenhagen, April 2019.
 - Invited talk at the Computational Linguistics seminar, <a href="https://www.illc.uva.nl/">ILLC</a>, Amsterdam, March 2019.
-- Listen to Tal Linzen and I talking about <a href="https://blackboxnlp.github.io/2018/">BlackboxNLP 2018</a> workshop on <a href="https://www.listennotes.com/podcasts/nlp-highlights/81-blackboxnlp-with-afra-OlGz203SLdw/">NLP Highlights podcast</a>.
+- Listen to Tal Linzen and I talking about the first <a href="https://blackboxnlp.github.io/2018/">BlackboxNLP</a> workshop on <a href="https://www.listennotes.com/podcasts/nlp-highlights/81-blackboxnlp-with-afra-OlGz203SLdw/">NLP Highlights podcast</a>, released January 2019.
+- Area chair for <a href="http://www.acl2019.org/EN/index.xhtml">ACL 2019</a>.
 - Received an e-Science Center/NWO grant for the project "Understanding visually grounded spoken language via multi-tasking".
 - Organizer of <a href="">BlackboxNLP</a> workshop at <a href="">EMNLP 2018</a>.
 - Keynote at <a href="https://l2hm2018.sciencesconf.org/resource/page/id/1">Workshop on Learning Language in Humans and in Machines</a>, <a href="http://www.ens.fr/en">Ecole Normale Superieure</a>, Paris, July 2018.
