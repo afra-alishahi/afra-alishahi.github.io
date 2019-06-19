@@ -55,6 +55,8 @@ Fourth International Conference of the German Cognitive Linguistics Association
 
 ## Publications
 
+- Afra Alishahi, Grzegorz Chrupała and Tal Linzen (2019). Analyzing and Interpreting Neural Networks for NLP: A Report on the First BlackboxNLP Workshop. To appear in <i>Natural Language Engineering</i>.
+- Daan Keijser, Lieke Gelderloos and Afra Alishahi (2019). Curious Topics: A Curiosity-Based Model of First Language Word Learning. In <i>Proceedings of the 41st Annual Conference of the Cognitive Science Society (CogSci)</i>, Montréal, Canada.
 - Grzegorz Chrupała and Afra Alishahi (2019). Correlating neural and symbolic representations of language. In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
 - Grzegorz Chrupała, Lieke Gelderloos, Ákos Kádár and Afra Alishahi (2019). <a href="https://scholarworks.umass.edu/scil/vol2/iss1/18/">On the difficulty of a distributional semantics of spoken language</a>. Proceedings of the Society for Computation in Linguistics.
 - Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi (2018). <a href="https://aclweb.org/anthology/K18-1039">Lessons learned in multilingual grounded language learning</a>. <i>Proceedings of Conference on Computational Natural Language Learning (CoNLL)</i>. 
