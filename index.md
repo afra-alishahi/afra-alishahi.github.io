@@ -55,6 +55,7 @@ Fourth International Conference of the German Cognitive Linguistics Association
 
 ## Publications
 
+- Grzegorz Chrupała and Afra Alishahi (2019). Correlating neural and symbolic representations of language. In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
 - Grzegorz Chrupała, Lieke Gelderloos, Ákos Kádár and Afra Alishahi (2019). <a href="https://scholarworks.umass.edu/scil/vol2/iss1/18/">On the difficulty of a distributional semantics of spoken language</a>. Proceedings of the Society for Computation in Linguistics.
 - Ákos Kádár, Desmond Elliott, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi (2018). <a href="https://aclweb.org/anthology/K18-1039">Lessons learned in multilingual grounded language learning</a>. <i>Proceedings of Conference on Computational Natural Language Learning (CoNLL)</i>. 
 - Ákos Kádár, Marc-Alexandre Côté, Grzegorz Chrupała and Afra Alishahi (2018). <a href="https://aclweb.org/anthology/C18-1272">Revisiting the Hierarchical Multiscale LSTM</a>. <i>Proceedings of the Conference on Computational Linguistics (COLING)</i>.
