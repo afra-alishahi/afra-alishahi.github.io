@@ -14,6 +14,11 @@ I am mainly interested in studying language learning using computational models.
 
 ## News and Activities
 
+- Invited talk at EurNLP 2020, Paris, November 2020.
+- Co-organizer of <a href="https://blackboxnlp.github.io/">BlackboxNLP 2020</a>, an virtual EMNLP workshop, November 2020.
+- Invited talk at <a href="http://clcl.unige.ch/">Computational Learning and Computational Linguistics
+research group</a>, University of Geneva, December 2019.
+- Invited lecture at <a href="https://project.inria.fr/paiss/program-2019/">PAISS 2019 Artificial Intelligence Summer School</a>, Paris, October 2019.
 - Invited talk at <a href="http://wids.dk/">Women in Data Science Conference 2019</a>, Copenhagen, April 2019.
 - Invited talk at the Computational Linguistics seminar, <a href="https://www.illc.uva.nl/">ILLC</a>, Amsterdam, March 2019.
 - Listen to Tal Linzen and I talking about the first <a href="https://blackboxnlp.github.io/2018/">BlackboxNLP</a> workshop on <a href="https://www.listennotes.com/podcasts/nlp-highlights/81-blackboxnlp-with-afra-OlGz203SLdw/">NLP Highlights podcast</a>, released January 2019.
