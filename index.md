@@ -55,7 +55,10 @@ Fourth International Conference of the German Cognitive Linguistics Association
 
 ## Publications
 
-- Afra Alishahi, Grzegorz Chrupała and Tal Linzen (2019). Analyzing and Interpreting Neural Networks for NLP: A Report on the First BlackboxNLP Workshop. To appear in <i>Natural Language Engineering</i>.
+- Grzegorz Chrupała, Bertrand Higy and Afra Alishahi (2020). Analyzing analytical methods: The case of phonology in neural models of spoken language. In <i>Proceedings of ACL 2020.</i>
+- Lieke Gelderloos, Grzegorz Chrupała and Afra Alishahi (2020). Learning to understand child- and adult-directed speech. In <i>Proceedings of ACL 2020.</i>
+- Lieke Gelderloos, Alireza M. Kamelabad and Afra Alishahi (2020). Active Word Learning through Self-supervision. In <i> Proceedings of CogSci 2020</i>.
+- Afra Alishahi, Grzegorz Chrupała and Tal Linzen (2019). Analyzing and Interpreting Neural Networks for NLP: A Report on the First BlackboxNLP Workshop. <i>Natural Language Engineering</i>, 25(4), 543--557.
 - Daan Keijser, Lieke Gelderloos and Afra Alishahi (2019). Curious Topics: A Curiosity-Based Model of First Language Word Learning. In <i>Proceedings of the 41st Annual Conference of the Cognitive Science Society (CogSci)</i>, Montréal, Canada.
 - Grzegorz Chrupała and Afra Alishahi (2019). Correlating neural and symbolic representations of language. In <i>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
 - Grzegorz Chrupała, Lieke Gelderloos, Ákos Kádár and Afra Alishahi (2019). <a href="https://scholarworks.umass.edu/scil/vol2/iss1/18/">On the difficulty of a distributional semantics of spoken language</a>. Proceedings of the Society for Computation in Linguistics.
