@@ -14,7 +14,12 @@ I am mainly interested in studying language learning using computational models.
 
 ## News and Activities
 
-- Invited talk at EurNLP 2020, Paris, November 2020.
+- We received a grant on <a href="https://interpretingdl.github.io/">Interpreting Deep Learning Models for Text and Sound</a> from <a href="https://www.nwo.nl/onderzoeksprogrammas/toekenningen-nwa-orc/toekenningen-nwa-orc-2019">Dutch National Research Agenda</a> (NWA-ORC 2019).
+- Invited talk at <a href="http://www.lscp.net/persons/dupoux/bootphon/index.html">Cognitive Machine Learning (CoML)</a>, January 2021.
+- Keynote at <a href="https://sites.google.com/view/starsem2020/home?authuser=0">*Sem/SemEval 2020</a>, December 2020.
+- Area Chair for Interpretability and Analysis of Models for NLP at <a href="https://2021.aclweb.org/">ACL 2021</a>.
+- Senior Area Chair (SAC) for Linguistic Theories, Cognitive Modeling and Psycholinguistics at <a href="https://2021.eacl.org/">EACL 2021</a>.
+- Invited talk at EurNLP 2020, Paris, November 2020 (postponed).
 - Co-organizer of <a href="https://blackboxnlp.github.io/">BlackboxNLP 2020</a>, an virtual EMNLP workshop, November 2020.
 - Invited talk at <a href="http://clcl.unige.ch/">Computational Learning and Computational Linguistics
 research group</a>, University of Geneva, December 2019.
@@ -60,6 +65,7 @@ Fourth International Conference of the German Cognitive Linguistics Association
 
 ## Publications
 
+- Afra Alishahi, Yonatan Belinkov, Grzegorz Chrupała, Dieuwke Hupkes, Yuval Pinter, Hassan Sajjad (2020). Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. EMNLP 2020.
 - Grzegorz Chrupała, Bertrand Higy and Afra Alishahi (2020). Analyzing analytical methods: The case of phonology in neural models of spoken language. In <i>Proceedings of ACL 2020.</i>
 - Lieke Gelderloos, Grzegorz Chrupała and Afra Alishahi (2020). Learning to understand child- and adult-directed speech. In <i>Proceedings of ACL 2020.</i>
 - Lieke Gelderloos, Alireza M. Kamelabad and Afra Alishahi (2020). Active Word Learning through Self-supervision. In <i> Proceedings of CogSci 2020</i>.
@@ -113,10 +119,10 @@ word learning? An artificial language learning study</a>. <i>Wiener Linguistisch
 
 ## Contact
 
-*Email:* a.alishahi@uvt.nl
+*Email:* a.alishahi@tilburguniversity.edu
 
 *Address:*<br>
 Tilburg University<br>
 Department of Cognitive Science and AI<br>
 Warandelaan 2, 5037 AB Tilburg<br>
-Dante Building, Room D 328<br>
+Dante Building, Room D 127<br>
