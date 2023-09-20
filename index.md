@@ -14,7 +14,15 @@ I am mainly interested in studying language learning using computational models.
 
 ## News and Activities
 
-- We received a grant on <a href="https://interpretingdl.github.io/">Interpreting Deep Learning Models for Text and Sound</a> from <a href="https://www.nwo.nl/onderzoeksprogrammas/toekenningen-nwa-orc/toekenningen-nwa-orc-2019">Dutch National Research Agenda</a> (NWA-ORC 2019).
+- Invited lecture on Interpretability of linguistic knowledge in neural language models at <a href="https://www.ai-lc.it/en/lectures-2/lectures-2023/">Lectures
+on Computational Linguistic</a>, Pisa, Italy, May 2023.
+- Invited talk at the <a href="https://science.arizona.edu/cogsci">Cognitive Science Department, University of Arizona</a>, Us, November 2022.
+- Keynote at <a href="https://www.gu.se/en/event/conference-disembodiment-0">(Dis)embodiment conference</a>, University of Gothenburg, Sweden, September 2022.
+- Invited panel participant on <a href="https://www.tilburguniversity.edu/campus/studium-generale/artificial-intelligence">Artificial stupidity: the danger of glorifying Artificial Intelligence</a>, Studium Generale Tilburg, September 2022.
+- Invited talk at the <a href="https://gu-clasp.github.io/">Centre for Linguistic Theory and Studies in Probability (CLASP)</a>, University of Gothenburg, Sweden, February 2022.
+- Invited talk at <a href="https://konvens2021.phil.hhu.de/">KONVENS (Konferenz zur Verarbeitung nat ̈urlicher Sprache/Conference on Natural Language Processing)</a>, Dusseldorf, Germany, September 2021.
+- Invited talk at <a href="https://www.tilburguniversity.edu/research/institutes-and-research-groups/taisig/taisig-talks">Tilburg University Artificial Intelligence Special Interest Group (TAISIG)</a>, Netherlands, May 2021.
+- We received a grant on <a href="https://interpretingdl.github.io/">Interpreting Deep Learning Models for Text and Sound</a> from <a href="https://www.nwo.nl/onderzoeksprogrammas/toekenningen-nwa-orc/toekenningen-nwa-orc-2019">Dutch National Research Agenda</a> (NWA-ORC).
 - Invited talk at <a href="http://www.lscp.net/persons/dupoux/bootphon/index.html">Cognitive Machine Learning (CoML)</a>, January 2021.
 - Keynote at <a href="https://sites.google.com/view/starsem2020/home?authuser=0">*Sem/SemEval 2020</a>, December 2020.
 - Area Chair for Interpretability and Analysis of Models for NLP at <a href="https://2021.aclweb.org/">ACL 2021</a>.
@@ -65,6 +73,13 @@ Fourth International Conference of the German Cognitive Linguistics Association
 
 ## Publications
 
+- Raquel Alhama, Ruthe Foushee, Dan Byrne, Allyson Ettinger, Susan Goldin-Meadow and Afra Alishahi (2023). Linguistic productivity: the case of determiners in English. In <i>Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for ComputationalvLinguistics(IJCNLP-AACL).</i>
+- Hosein Mohebbi, Willem Zuidema, Grzegorz Chrupała and Afra Alishahi (2023). Quantifying context mixing in transformers. In <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL).</i>
+- Gaofei Shen, Afra Alishahi, Arianna Bisazza and Grzegorz Chrupała (2023). Wave to syntax: probing spoken language models for syntax. In <i>Proceedings of the 24th INTERSPEECH Conference.</i>
+- Mitja Nikolaus, Afra Alishahi and Grzegorz Chrupała (2022). Learning English with Peppa Pig. <i>Transactions of the Association for Computational Linguistics</i>, 10, 922–936.
+- Bertrand Higy, Lieke Gelderloos, Afra Alishahi and Grzegorz Chrupała (2021). Discrete representations in neural models of spoken language. In <i>Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP</i> at EMNLP 2021.
+- Afra Alishahi, Grzegorz Chrupała, Alex Cristia, Emmanuel Dupoux, Bertrand Higy, Malvin Lavechin, Okko Räsänen and Chen Yu (2021). ZR-2021VG: Zero-Resource Speech
+Challenge, Visually-Grounded Language Modelling track.
 - Afra Alishahi, Yonatan Belinkov, Grzegorz Chrupała, Dieuwke Hupkes, Yuval Pinter, Hassan Sajjad (2020). Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP. EMNLP 2020.
 - Grzegorz Chrupała, Bertrand Higy and Afra Alishahi (2020). Analyzing analytical methods: The case of phonology in neural models of spoken language. In <i>Proceedings of ACL 2020.</i>
 - Lieke Gelderloos, Grzegorz Chrupała and Afra Alishahi (2020). Learning to understand child- and adult-directed speech. In <i>Proceedings of ACL 2020.</i>
