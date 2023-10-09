@@ -73,8 +73,9 @@ Fourth International Conference of the German Cognitive Linguistics Association
 
 ## Publications
 
-- Raquel Alhama, Ruthe Foushee, Dan Byrne, Allyson Ettinger, Susan Goldin-Meadow and Afra Alishahi (2023). Linguistic productivity: the case of determiners in English. In <i>Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for ComputationalvLinguistics(IJCNLP-AACL).</i>
-- Hosein Mohebbi, Willem Zuidema, Grzegorz Chrupała and Afra Alishahi (2023). Quantifying context mixing in transformers. In <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL).</i>
+- Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema and Afra Alishahi (2023). Analyzing context mixing in speech Transformers. In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).</i>
+- Raquel Alhama, Ruthe Foushee, Dan Byrne, Allyson Ettinger, Susan Goldin-Meadow and Afra Alishahi (2023). Linguistic productivity: the case of determiners in English. In <i>Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL).</i>
+- Hosein Mohebbi, Willem Zuidema, Grzegorz Chrupała and Afra Alishahi (2023). Quantifying context mixing in Transformers. In <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL).</i>
 - Gaofei Shen, Afra Alishahi, Arianna Bisazza and Grzegorz Chrupała (2023). Wave to syntax: probing spoken language models for syntax. In <i>Proceedings of the 24th INTERSPEECH Conference.</i>
 - Mitja Nikolaus, Afra Alishahi and Grzegorz Chrupała (2022). Learning English with Peppa Pig. <i>Transactions of the Association for Computational Linguistics</i>, 10, 922–936.
 - Bertrand Higy, Lieke Gelderloos, Afra Alishahi and Grzegorz Chrupała (2021). Discrete representations in neural models of spoken language. In <i>Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP</i> at EMNLP 2021.
