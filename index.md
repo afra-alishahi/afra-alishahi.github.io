@@ -3,7 +3,7 @@
 --------
 
 ## About
-I am an Associate Professor at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
+I am a Professor of Computational Linguistics at the <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a> at 
 <a href="http://www.tilburguniversity.edu/">Tilburg University</a>, the Netherlands.
 
 <!--You can find my [CV](Alishahi_CV.pdf) here. -->
